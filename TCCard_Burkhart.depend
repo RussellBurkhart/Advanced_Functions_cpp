@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539054687 source:c:\users\russe\desktop\school\c++ ii\assignments\tccard_burkhart\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+
